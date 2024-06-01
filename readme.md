@@ -1,3 +1,7 @@
+P.A.WORK (WORK to Protect your Avatar from privacy leakage) is method to use adversarial attack method to confuse models which tries to infer gender information from social media users' avatars. 
+
+![0](0.png)
+
 ### Requirements
 
 ```
