@@ -1,0 +1,5 @@
+data/
+fake_data/
+true_data/
+ckpt/
+output/
