@@ -2,9 +2,10 @@ P.A.WORK (WORK to Protect your Avatar from privacy leakage) is method to use adv
 
 ![0](0.png)
 
-### Requirements
+### Installation
 
 ```
+git clone https://github.com/12travellers/P.A.WORK.git
 pip install numpy torch torchvision tqdm tensorboard
 ```
 
